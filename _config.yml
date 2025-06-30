@@ -13,7 +13,7 @@ title                    : "Ke Ni"
 title_separator          : "-"
 name                     : &name "Ke Ni"
 description              : &description "Ph.D. Trainee in Computational Biology at the Joint Carnegie Mellon University–University of Pittsburgh Ph.D. Program (CPCB), with extensive research and engineering experience in NLP, computer vision, ML, and interdisciplinary applications."
-url                      : "https://yourusername.github.io" # Replace with your actual site URL if different
+url                      : "https://dummyindex.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "dummyindex/cpcb-cv-site"
 
