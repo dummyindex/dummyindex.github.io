@@ -11,7 +11,7 @@ redirect_from:
 
 Ph.D. Trainee in Computational Biology at the Joint Carnegie Mellon University–University of Pittsburgh Ph.D. Program (CPCB), with extensive research and engineering experience in natural language processing, computer vision, machine learning, and interdisciplinary applications.
 
-- Email: dummtindex@gmail.com
+- Email: keniauthor@gmail.com
 - GitHub: [github.com/dummyindex](https://github.com/dummyindex/)
 
 ## Research Interests
