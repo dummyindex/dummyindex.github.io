@@ -1,18 +1,10 @@
 # Authors
 
-Name Name:
-  name        : "Name Name"
-  uri         : "http://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
+Ke Ni:
+  name        : "Ke Ni"
+  uri         : "https://github.com/dummyindex/"
+  email       : "dummtindex@gmail.com"
+  bio         : "Ph.D. Trainee in Computational Biology at the Joint Carnegie Mellon University–University of Pittsburgh Ph.D. Program (CPCB), with extensive research and engineering experience in natural language processing, computer vision, machine learning, and interdisciplinary applications."
   avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
-
-Name2 Name2:
-  name        : "Name2 Name2"
-  email       : "name2@name2.com"
-  bio         : "I ordered what?"
-  avatar      : "bio-photo.jpg"
-  twitter     : "name2"
-  google_plus : "Name"
+  twitter     : "dummyindex"
+  google_plus : "KeNi"

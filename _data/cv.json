@@ -1,152 +1,170 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
-    "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "name": "Ke Ni",
+    "email": "dummtindex@gmail.com",
+    "website": "https://github.com/dummyindex/",
+    "summary": "Ph.D. Trainee in Computational Biology at the Joint Carnegie Mellon University–University of Pittsburgh Ph.D. Program (CPCB), with extensive research and engineering experience in natural language processing, computer vision, machine learning, and interdisciplinary applications.",
     "location": {
-      "address": "",
-      "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
-      "region": ""
+      "city": "Pittsburgh",
+      "region": "PA",
+      "countryCode": "US"
     },
     "profiles": [
       {
-        "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-      },
-      {
-        "network": "ORCID",
-        "username": "",
-        "url": "http://orcid.org/yourorcidurl"
-      },
-      {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "dummyindex",
+        "url": "https://github.com/dummyindex/"
       }
     ]
   },
-  "work": [],
+  "work": [
+    {
+      "company": "Ragomics Multi-Agent System Team",
+      "position": "Project Lead (Volunteer)",
+      "website": "https://www.raganetwork.com/",
+      "startDate": "2023",
+      "endDate": "Present",
+      "summary": "Founded and lead the development of Ragomics, a multi-agent platform for single-cell genomics analysis. Led full-stack development, DevOps, prompt engineering, LLM fine-tuning, backend architecture, and team management.",
+      "highlights": [
+        "Designed a robust multi-agent system with memory management, context tracking, web integration, and dynamic prompt orchestration.",
+        "Built and deployed a production-grade computation server with asynchronous job queuing using Flask and FastAPI."
+      ]
+    },
+    {
+      "company": "University of Pittsburgh, School of Medicine",
+      "position": "Research Assistant",
+      "website": "https://www.medschool.pitt.edu/",
+      "startDate": "2021",
+      "endDate": "Present",
+      "summary": "Led the development of LivecellX, a deep learning computer vision framework for live-cell imaging analysis. Developed 4D temporal action detection models and contributed to open-source projects.",
+      "highlights": [
+        "Developed CNN-based models for segmentation correction and algorithms for trajectory analysis.",
+        "Key contributor to Dynamo, a widely used scRNA-seq dynamics analysis pipeline."
+      ]
+    },
+    {
+      "company": "Shanghai Ragamuffin Networks Inc.",
+      "position": "Engineer Lead",
+      "startDate": "2020-12",
+      "endDate": "2021-09",
+      "summary": "Led a software engineering team to deliver a cloud-based platform for a commercial bodyguard firm, including GPS tracking, live streaming, and business intelligence systems.",
+      "highlights": [
+        "Designed full-stack architecture with React, WeChat Mini Program, Spring Boot backend, and cloud storage."
+      ]
+    },
+    {
+      "company": "FusionTech (Startup)",
+      "position": "Co-Founder",
+      "startDate": "2020-08",
+      "endDate": "2020-12",
+      "summary": "Led the design and development of an AI-driven diagnostic tool for early cancer detection using computer vision and CNN-based machine learning methods.",
+      "highlights": [
+        "Integrated advanced computational methods with clinical expertise for cancer diagnostics."
+      ]
+    },
+    {
+      "company": "University of California, Santa Barbara",
+      "position": "Research Assistant",
+      "startDate": "2016-01",
+      "endDate": "2017",
+      "summary": "Conducted research on LSTM-based sequence-to-sequence models, interpretable knowledge base representations, and machine reading comprehension.",
+      "highlights": [
+        "Published a first-author paper at ACL-IJCNLP on slang explanation and dataset construction."
+      ]
+    },
+    {
+      "company": "Arista",
+      "position": "Software Engineer Intern",
+      "startDate": "2017-06",
+      "endDate": "2017-09",
+      "summary": "Worked on sensors and transceivers software-hardware driver interfaces in C++ and Python. Developed a command line tool for transceiver temperature status."
+    },
+    {
+      "company": "UCSB L&S IT",
+      "position": "Software Engineering Intern",
+      "startDate": "2016-08",
+      "endDate": "2016-12",
+      "summary": "Implemented features for UCSB Box, a web project, and migrated database from MySQL to PostgreSQL."
+    }
+  ],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
-      "gpa": null,
-      "courses": []
+      "institution": "Joint CMU-Pitt Ph.D. Program in Computational Biology",
+      "area": "Computational Biology",
+      "studyType": "Ph.D.",
+      "startDate": "2019",
+      "endDate": "2025 (expected)",
+      "location": "Pittsburgh, PA",
+      "highlights": [
+        "Transferred to University of Pittsburgh, School of Medicine in 2021 within the Ph.D. program.",
+        "On leave during COVID-19 pandemics (2020-2021)",
+        "Carnegie Mellon University, School of Computer Science (2019-2020)"
+      ]
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
+      "institution": "University of California, Santa Barbara",
+      "area": "Computer Science",
+      "studyType": "Master of Science",
+      "startDate": "2017",
+      "endDate": "2019",
+      "location": "Santa Barbara, CA",
+      "highlights": [
+        "Research focus on natural language processing and understanding."
+      ]
     },
     {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
-      "courses": []
+      "institution": "University of California, Santa Barbara",
+      "area": "Computer Science",
+      "studyType": "Bachelor of Science",
+      "startDate": "2015",
+      "endDate": "2017",
+      "location": "Santa Barbara, CA",
+      "highlights": [
+        "GPA: 3.96/4.00 (major), 3.8/4.00 (overall), High Honors, Dean’s Honor 2015-2017, graduated within two years after high school."
+      ]
     }
   ],
-  "skills": [],
-  "languages": [],
-  "interests": [],
-  "references": [],
+  "awards": [
+    "2017 Computing Research Association (CRA) outstanding undergraduate researcher reward nomination",
+    "2015 ACM ICPC Southern California, Team Sylveon, Rank 12th",
+    "2013 National (Chinese) Olympiads Informatics in Shanghai, First Prize in all the rounds"
+  ],
+  "skills": [
+    "Natural Language Processing",
+    "Computer Vision",
+    "Machine Learning",
+    "Reinforcement Learning",
+    "Probabilistic Graphical Models",
+    "Computational Genomics",
+    "Structural Biology",
+    "Protein Structure Prediction",
+    "Biophysics",
+    "Distributed Systems",
+    "Graph Analysis",
+    "FPGA (Vivado suite, VHDL)",
+    "Cryptoengineering",
+    "Augmented Reality"
+  ],
   "publications": [
-    {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "http://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "http://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
-    }
+    "Ke Ni, et al. (in prep). RagOmics: A Scalable Autonomous Multi-agent System for Exploratory Single-Cell Omics Analysis.",
+    "Ke Ni, et al. LivecellX: A Scalable Deep Learning Framework for Single-Cell Object-Oriented Analysis. BioRxiv.",
+    "Ke Ni, et al. (in-prep). LivecellAction: Guiding Spatiotemporal Deep Learning Models for Precise Detection of Rare Single-Cell Actions.",
+    "Ke Ni, William Yang Wang (2017). Learning to Explain Non-standard English. ACL-IJCNLP, Oral in TaiPei.",
+    "Yuhao Chen, Yifei Zhang, Jiaxin Gan, Ke Ni, Ming Chen, Ivet Bahar, Jianhua Xing. (2025). GraphVelo allows for accurate inference of multimodal velocities and molecular mechanisms for single cells. BioRxiv.",
+    "Sophia Hu, Yong Lu, Gaohan Yu, Zhiqian Zheng, Weikang Wang, Ke Ni, Amitava Giri, Jingyu Zhang, Yan Zhang, Kazuhide Watanabe, Guang Yao, Jianhua Xing (2025). Epithelial-Mesenchymal Transition Couples with Cell Cycle Arrest at Various Stages. BioRxiv.",
+    "Yanshuo Chen, Xidong Wu, Ke Ni, Haoran Hu, Molin Yue, Wei Chen, and Heng Huang (in submission). Robust and Accurate Doublet Detection of Single-Cell Sequencing Data via Maximizing Area Under Precision-Recall Curve. BioRxiv.",
+    "Yan Zhang, Xiaojie Qiu, Ke Ni, Jonathan Weissman, Ivet Bahar, Jianhua Xing. (2023). Graph-Dynamo: Learning stochastic cellular state transition dynamics from single-cell data. BioRxiv.",
+    "Yanshuo Chen, Zhengmian Hu, Ke Ni, Site Feng, Wei Chen, Heng Huang. Inferring Single-Cell RNA Kinetics from Various Biological Priors. BioRxiv.",
+    "Weikang Wang, Ke Ni, et al. (2024). Transiently Increased Coordination in Gene Regulation During Cell Phenotypic Transitions. PRX Life.",
+    "Jason Xiaotian Dou, Minxue Jia, Nika Zaslavsky, Mark Ebeid, Runxue Bao, Shiyi Zhang, Ke Ni, Paul Pu Liang, Haiyi Mao, Zhi-Hong Mao, et al. (2022). Cell Representation Learning. NeurIPS LMRL."
   ],
-  "presentations": [
-    {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
-    }
+  "talks": [
+    "Society of Biomolecular Imaging and Informatics (SBI2) 2024, Broad Institute of MIT and Harvard – Poster on LivecellAction and short talk on LivecellX; attended in person with self-support.",
+    "The Multi-Consortia Coordinating (MC2) Center for Cancer Biology – Online presenter; delivered a 1-hour talk on LivecellX.",
+    "The Cancer Biology Program Trainee Progress Report – Delivered a 30-minute research presentation.",
+    "CytoData 2023, Allen Institute – Participated and presented work during poster sessions; received travel award."
   ],
-  "teaching": [
-    {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
-    },
-    {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
-    }
-  ],
-  "portfolio": [
-    {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-    }
+  "involvement": [
+    "Member, ACM Chapter at UCSB, 2015-2017"
   ]
 }
