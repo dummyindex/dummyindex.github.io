@@ -3,10 +3,10 @@ title: "LivecellX: A Scalable Deep Learning Framework for Single-Cell Object-Ori
 collection: publications
 category: manuscripts
 permalink: /publication/livecellx
-excerpt: 'Ke Ni, et al. (in-review). LivecellX: A Scalable Deep Learning Framework for Single-Cell Object-Oriented Analysis. BioRxiv.'
+excerpt: 'Ke Ni, et al. LivecellX: A Scalable Deep Learning Framework for Single-Cell Object-Oriented Analysis. BioRxiv.'
 date: 2025-06-30
-venue: 'BioRxiv (in review)'
-citation: 'Ke Ni, et al. (in-review). "LivecellX: A Scalable Deep Learning Framework for Single-Cell Object-Oriented Analysis." BioRxiv.'
+venue: 'BioRxiv'
+citation: 'Ke Ni, et al.. "LivecellX: A Scalable Deep Learning Framework for Single-Cell Object-Oriented Analysis." BioRxiv.'
 ---
 
-First/co-first author work in review.
+First/co-first author work.
