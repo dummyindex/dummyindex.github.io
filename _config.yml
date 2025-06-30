@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-theme                    : "minimal-mistakes-jekyll"
+theme                    : "jekyll-theme-hacker"
 title                    : "Ke Ni"
 title_separator          : "-"
 name                     : &name "Ke Ni"
