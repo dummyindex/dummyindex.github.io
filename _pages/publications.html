@@ -1,0 +1,25 @@
+---
+layout: archive
+title: "Publications"
+permalink: /publications/
+author_profile: true
+---
+
+{% include base_path %}
+
+{% if site.author.googlescholar %}
+  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+{% endif %}
+
+<style>
+  .pub-list { margin: 0 0 1em; padding-left: 1.5em; }
+  .pub-list li { margin: 0 0 .55em; font-size: .85rem; line-height: 1.45; }
+  .pub-list li strong { color: var(--global-link-color); }
+</style>
+
+{% assign pubs = site.publications | sort: 'date' | reverse %}
+<ol class="pub-list">
+{% for post in pubs %}
+  <li>{{ post.citation | replace: 'Ke Ni', '<strong>Ke Ni</strong>' }}{% if post.paperurl %} <a href="{{ post.paperurl }}" target="_blank" rel="noopener">[Link]</a>{% endif %}</li>
+{% endfor %}
+</ol>
